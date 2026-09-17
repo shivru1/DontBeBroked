@@ -1,0 +1,6 @@
+{
+  "name": "DontBeBroke",
+  "description": "Smart personal budgeting app with fair daily spending limits and AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

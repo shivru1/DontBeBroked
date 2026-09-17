@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DontBeBroke</string>
+    <string name="tagline">Smart daily budget advisor to stay solvent until payday</string>
+    <string name="setup_title">Set Up Your Budget Cycle</string>
+    <string name="salary_label">Monthly Salary</string>
+    <string name="salary_day_label">Salary Day of Month (1–31)</string>
+    <string name="fixed_expenses_title">Confirmed Fixed Expenses</string>
+    <string name="remaining_balance_label">Remaining Balance</string>
+    <string name="fair_daily_budget_label">Fair Daily Budget</string>
+    <string name="days_remaining_label">Days Until Payday</string>
+    <string name="log_expense_button">Log Expense</string>
+    <string name="chat_placeholder">Log spend (e.g. Spent ₹450) or ask advisor…</string>
+</resources>
