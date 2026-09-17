@@ -21,7 +21,7 @@ interface ChatAdviceParams {
   todaySpent: number;
 }
 
-const GEMINI_API_KEY = (typeof process !== 'undefined' && process.env?.GEMINI_API_KEY) || '';
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 
 // Priority list of Gemini models for fast, reliable thinking & response
 const CANDIDATE_MODELS = [
