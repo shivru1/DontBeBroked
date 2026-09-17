@@ -1,12 +1,6 @@
 {
   "appId": "com.aistudio.app",
   "appName": "AI Chat App",
-  "webDir": "dist",
-  "server": {
-    "url": "https://ais-dev-ffy4clynvqpcfyicxoqykb-44679903079.asia-east1.run.app/",
-    "cleartext": true,
-    "allowNavigation": [
-      "*"
-    ]
+  "webDir": "dist"
   }
 }
