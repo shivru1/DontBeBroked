@@ -1,0 +1,5 @@
+{
+  "appId": "com.aistudio.app",
+  "appName": "AI Chat App",
+  "webDir": "dist"
+}
